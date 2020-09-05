@@ -2,12 +2,12 @@
 
 
 
-Pre-Bootcamp - 
+# Pre-Bootcamp - 
 Expectation: Make everyone to same plane 
 
 https://www.youtube.com/playlist?list=PL_9uM5be2amqfJBrXdUf0dn2fggYWvG9P
 
-Mandatory Outcome : Solving Abso Begin using JS 
+## Mandatory Outcome : Solving Abso Begin using JS 
 
 # Tasks to be done after Pre-Bootcamp:
 
@@ -32,16 +32,16 @@ Mandatory Outcome : Solving Abso Begin using JS
 * https://medium.com/@reach2arunprakash/www-guvi-io-zen-d395deec1373
 
 
-Why do we need this pre-bootcamp? 
+## Why do we need this pre-bootcamp? 
 
-Learners fall into three buckets. 
+# Learners fall into three buckets. 
 
 1. Beginner - Have logical skills but yet to start in code 
 2. Inter - Can apply logic in code, loops , array 
 3. Adv - LDS and Adv-DS 
 
 
-Concepts to be in covered pre-bootcamp:
+## Concepts to be in covered pre-bootcamp:
 
 * Intro to Console in browser and <script> tag
 
