@@ -3,9 +3,12 @@
 
 
 # Pre-Bootcamp - 
-Expectation: Make everyone to same plane 
+
+### Expectation: Make everyone to same plane 
 
 https://www.youtube.com/playlist?list=PL_9uM5be2amqfJBrXdUf0dn2fggYWvG9P
+
+https://www.guvi.in/courses-product?course=javascript_en
 
 ## Mandatory Outcome : Solving Abso Begin using JS 
 
