@@ -9,17 +9,27 @@ https://www.youtube.com/playlist?list=PL_9uM5be2amqfJBrXdUf0dn2fggYWvG9P
 
 Mandatory Outcome : Solving Abso Begin using JS 
 
-Tasks to be done after Pre-Bootcamp:
-CodeKata Absolute beginner aka AB
-Submit the entire AB set with all test cases passed. This is mandatory to take the assessment. 
-Bonus points : If you are an expert then go ahead and push forward. 
-Tasks to be submitted in github repos with name “GUVI_prebootcamp”
-Create a github account → https://github.com/ 
-How to upload file to repo → How to upload code onto github repository | How to push code from local repo to remote repo
-Create a repo with name “GUVI_prebootcamp” - pre-bootcamp and upload your js. Every task should have an individual js file.
-https://medium.com/@reach2arunprakash/guvi-zen-class-find-the-culprits-and-nail-them-9ee6c67c44fb
-https://medium.com/@reach2arunprakash/www-guvi-io-zen-4fa483a7d359
-https://medium.com/@reach2arunprakash/www-guvi-io-zen-d395deec1373
+# Tasks to be done after Pre-Bootcamp:
+
+* CodeKata Absolute beginner aka AB
+
+* Submit the entire AB set with all test cases passed. This is mandatory to take the assessment. 
+
+* Bonus points : If you are an expert then go ahead and push forward. 
+
+* Tasks to be submitted in github repos with name “GUVI_prebootcamp”
+
+* Create a github account → https://github.com/ 
+
+* How to upload file to repo → How to upload code onto github repository | How to push code from local repo to remote repo
+
+* Create a repo with name “GUVI_prebootcamp” - pre-bootcamp and upload your js. Every task should have an individual js file.
+
+* https://medium.com/@reach2arunprakash/guvi-zen-class-find-the-culprits-and-nail-them-9ee6c67c44fb
+
+* https://medium.com/@reach2arunprakash/www-guvi-io-zen-4fa483a7d359
+
+* https://medium.com/@reach2arunprakash/www-guvi-io-zen-d395deec1373
 
 
 Why do we need this pre-bootcamp? 
@@ -33,35 +43,53 @@ Learners fall into three buckets.
 
 Concepts to be in covered pre-bootcamp:
 
-Intro to Console in browser and <script> tag
-Intro to Problem solving using Javascript ( Code Kata & GUVI Ide )
-Basics of JS - 
-Variables - Numbers , string , boolean 
-NAN & undefined 
-Type casting - String to number (int,float) - parseInt , parseFloat , + , Number , String to boolean
-Printing - console.log();
-Looping 
-Structure of looping with solved problem 
-Nested looping with an example 
-Conditions 
-Arrays 
-Objects
-Function - basics - Don't go in depth 
+* Intro to Console in browser and <script> tag
+
+* Intro to Problem solving using Javascript ( Code Kata & GUVI Ide )
+
+* Basics of JS - 
+
+* Variables - Numbers , string , boolean 
+
+* NAN & undefined 
+
+* Type casting - String to number (int,float) - parseInt , parseFloat , + , Number , String to boolean
+
+* Printing - console.log();
+
+* Looping 
+
+* Structure of looping with solved problem 
+
+* Nested looping with an example 
+
+* Conditions 
+
+* Arrays 
+
+* Objects
+
+* Function - basics - Don't go in depth 
 
 
-Codekata - Lil extra  - any missing pieces 
+# Codekata - Lil extra  - any missing pieces 
 Test Cases - Space at end or beginning , number format , single line print
 
-Assessment pattern 
+## Assessment pattern 
 
 1. MCQ & Coding 
 
-MCQs - only in the JS topics covered in Pre-Bootcamp 
-Coding - Code Kata
-2 questions - Arrays , Maths and String - Mandatory to attend
-1 q - DS  - skip if you don't know
 
-Session 1: Intro to code kata and JS
+* MCQs - only in the JS topics covered in Pre-Bootcamp 
+
+* Coding - Code Kata
+
+* 2 questions - Arrays , Maths and String - Mandatory to attend
+
+* 1 q - DS  - skip if you don't know
+
+
+* Session 1: Intro to code kata and JS
 
 How to do CodeKata:
 https://medium.com/@reach2arunprakash/guvi-codekata-javascript-8d0e88d35630
